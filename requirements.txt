@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn[standard]
+streamlit
+requests
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+pytest
+httpx
